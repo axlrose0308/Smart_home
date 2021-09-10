@@ -1,0 +1,103 @@
+ * Debugger is active!
+ * Debugger PIN: 161-741-892
+42.120.74.210 - - [27/Sep/2018 14:17:39] "GET / HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:17:39] "GET /static/css/bootstrap.css HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:17:39] "GET /static/css/normalize.min.css HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:17:40] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:17:40] "GET /static/css/animate.css HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:17:40] "GET /static/css/templatemo-misc.css HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:17:40] "GET /static/css/templatemo-style.css HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:17:40] "GET /static/js/vendor/modernizr-2.6.2.min.js HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:17:42] "GET /static/images/8557944_00_thumb.jpg HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:17:42] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:17:49] "GET /static/js/vendor/jquery-1.10.1.min.js HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:17:49] "GET /static/js/jquery.easing-1.3.js HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:17:49] "GET /static/js/bootstrap.js HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:17:49] "GET /static/js/plugins.js HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:17:49] "GET /static/js/main.js HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:17:51] "GET /favicon.ico HTTP/1.1" 404 -
+42.120.74.210 - - [27/Sep/2018 14:18:04] "GET /AQI HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:18:08] "GET /table_data?type=aqi HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:18:11] "GET /temperature HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:18:12] "GET / HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:18:20] "GET / HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:23:38] "GET /temperature HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:23:41] "GET /table_data?type=temperature HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:05] "GET /table_data?type=temperature HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:06] "GET /static/css/bootstrap.css HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:06] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:06] "GET /static/css/animate.css HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:06] "GET /static/css/templatemo-misc.css HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:06] "GET /static/css/normalize.min.css HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:06] "GET /static/css/templatemo-style.css HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:06] "GET /static/js/vendor/jquery-1.10.1.min.js HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:06] "GET /static/js/vendor/modernizr-2.6.2.min.js HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:06] "GET /static/js/main.js HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:06] "GET /static/js/jquery.easing-1.3.js HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:06] "GET /static/js/plugins.js HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:06] "GET /static/js/bootstrap.js HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:07] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:07] "GET /favicon.ico HTTP/1.1" 404 -
+138.25.4.79 - - [27/Sep/2018 14:24:10] "GET / HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:10] "GET /static/images/8557944_00_thumb.jpg HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:11] "GET /favicon.ico HTTP/1.1" 404 -
+138.25.4.79 - - [27/Sep/2018 14:24:12] "GET /AQI HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:12] "GET /favicon.ico HTTP/1.1" 404 -
+138.25.4.79 - - [27/Sep/2018 14:24:14] "GET /temperature HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:14] "GET /favicon.ico HTTP/1.1" 404 -
+138.25.4.79 - - [27/Sep/2018 14:24:17] "GET /security HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:17] "GET /favicon.ico HTTP/1.1" 404 -
+138.25.4.79 - - [27/Sep/2018 14:24:18] "GET /temperature HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:21] "GET / HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:24] "GET /temperature HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:24:25] "GET /table_data?type=temperature HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:27] "GET /table_data?type=temperature HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:24:27] "GET /temperature HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:34] "GET /table_data?type=temperature HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:34] "GET /static/css/bootstrap.css HTTP/1.1" 304 -
+138.25.4.79 - - [27/Sep/2018 14:24:34] "GET /static/css/normalize.min.css HTTP/1.1" 304 -
+138.25.4.79 - - [27/Sep/2018 14:24:34] "GET /static/css/animate.css HTTP/1.1" 304 -
+138.25.4.79 - - [27/Sep/2018 14:24:34] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 -
+138.25.4.79 - - [27/Sep/2018 14:24:34] "GET /static/css/templatemo-misc.css HTTP/1.1" 304 -
+138.25.4.79 - - [27/Sep/2018 14:24:34] "GET /static/css/templatemo-style.css HTTP/1.1" 304 -
+138.25.4.79 - - [27/Sep/2018 14:24:34] "GET /static/js/vendor/modernizr-2.6.2.min.js HTTP/1.1" 304 -
+138.25.4.79 - - [27/Sep/2018 14:24:34] "GET /static/js/vendor/jquery-1.10.1.min.js HTTP/1.1" 304 -
+138.25.4.79 - - [27/Sep/2018 14:24:34] "GET /static/js/jquery.easing-1.3.js HTTP/1.1" 304 -
+138.25.4.79 - - [27/Sep/2018 14:24:34] "GET /static/js/bootstrap.js HTTP/1.1" 304 -
+138.25.4.79 - - [27/Sep/2018 14:24:34] "GET /static/js/plugins.js HTTP/1.1" 304 -
+138.25.4.79 - - [27/Sep/2018 14:24:34] "GET /static/js/main.js HTTP/1.1" 304 -
+138.25.4.79 - - [27/Sep/2018 14:24:34] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 -
+138.25.4.79 - - [27/Sep/2018 14:24:35] "GET /favicon.ico HTTP/1.1" 404 -
+138.25.4.79 - - [27/Sep/2018 14:24:36] "GET /AQI HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:37] "GET /temperature HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:43] "GET /AQI HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:24:43] "GET /temperature HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:24:48] "GET / HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:24:49] "GET /temperature HTTP/1.1" 200 -
+Error on request:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/lib/python2.7/site-packages/werkzeug/serving.py", line 261, in execute
+    write(data)
+  File "/usr/lib/python2.7/site-packages/werkzeug/serving.py", line 242, in write
+    self.wfile.write(data)
+IOError: [Errno 32] Broken pipe
+138.25.4.79 - - [27/Sep/2018 14:25:03] "GET /table_data?type=temperature HTTP/1.1" 200 -
+138.25.4.79 - - [27/Sep/2018 14:25:10] "GET /temperature HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:25:22] "GET /table_data?type=temperature HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:25:23] "GET /AQI HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:25:31] "GET /temperature HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:25:33] "GET / HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:25:34] "GET /AQI HTTP/1.1" 200 -
+Error on request:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/usr/lib/python2.7/site-packages/werkzeug/serving.py", line 261, in execute
+    write(data)
+  File "/usr/lib/python2.7/site-packages/werkzeug/serving.py", line 242, in write
+    self.wfile.write(data)
+IOError: [Errno 32] Broken pipe
+42.120.74.210 - - [27/Sep/2018 14:25:36] "GET /table_data?type=aqi HTTP/1.1" 200 -
+42.120.74.210 - - [27/Sep/2018 14:25:40] "GET /temperature HTTP/1.1" 200 -
